@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi, we're Swinburne's most exciting, high stakes robotics team. The rock munchers
 
-<!--
+Comprised of diverse disciplines and backgrounds, our team is united through our shared aspirations, curiosity, and commitment to push the frontiers of space, and uphold these values:
 
-**Here are some ideas to get you started:**
+Innovation - To embrace creative thinking and problem solving.
+Collaboration - To foster an environment that drives collective success.
+Inclusiveness - A commitment to ensure that everyone, regardless of background or expertise, feels welcome and valued.
+Resilience - To embrace challenges as opportunities for growth, learning, and improvement.
+Impact - To strive for tangible and meaningful contributions towards the community, industry, and world at large.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Learn more about our team and our rover:
+http://www.swinroverteam.com/
+https://swinroverteam.github.io/srt_wiki/
