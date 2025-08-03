@@ -1,4 +1,5 @@
-## Hi, we're Swinburne's most exciting, high stakes robotics team. The rock munchers
+## Hi, we're Swinburne's most exciting, high stakes robotics team.
+
 
 Comprised of diverse disciplines and backgrounds, our team is united through our shared aspirations, curiosity, and commitment to push the frontiers of space, and uphold these values:
 
